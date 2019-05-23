@@ -121,6 +121,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener, 
                 estado = false;
             }
             puntuacion = separar[2];
+
             if(separar[3].equals("true")){
                 termino = true;
             }else{
